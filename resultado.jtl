@@ -1,0 +1,801 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1794352491859,176,GET Home,200,OK,Usuarios Virtuais (20) 1-4,text,true,,2882,163,4,4,https://catalogo-produtos-beta.vercel.app/,167,0,119
+1794352491259,776,GET Home,200,OK,Usuarios Virtuais (20) 1-1,text,true,,2882,163,4,4,https://catalogo-produtos-beta.vercel.app/,772,0,719
+1794352491362,672,GET Home,200,OK,Usuarios Virtuais (20) 1-2,text,true,,2882,163,4,4,https://catalogo-produtos-beta.vercel.app/,664,0,616
+1794352491612,558,GET Home,200,OK,Usuarios Virtuais (20) 1-3,text,true,,2882,163,5,5,https://catalogo-produtos-beta.vercel.app/,558,0,366
+1794352492039,164,GET Health Check,200,OK,Usuarios Virtuais (20) 1-4,text,true,,435,173,5,5,https://catalogo-produtos-beta.vercel.app/api/health,164,0,0
+1794352492110,101,GET Home,200,OK,Usuarios Virtuais (20) 1-5,text,true,,2882,163,5,5,https://catalogo-produtos-beta.vercel.app/,101,0,67
+1794352492039,175,GET Health Check,200,OK,Usuarios Virtuais (20) 1-2,text,true,,435,173,5,5,https://catalogo-produtos-beta.vercel.app/api/health,175,0,0
+1794352492039,229,GET Health Check,200,OK,Usuarios Virtuais (20) 1-1,text,true,,435,173,5,5,https://catalogo-produtos-beta.vercel.app/api/health,229,0,0
+1794352492172,168,GET Health Check,200,OK,Usuarios Virtuais (20) 1-3,text,true,,435,173,5,5,https://catalogo-produtos-beta.vercel.app/api/health,168,0,0
+1794352492212,160,GET Health Check,200,OK,Usuarios Virtuais (20) 1-5,text,true,,435,173,6,6,https://catalogo-produtos-beta.vercel.app/api/health,160,0,0
+1794352492215,224,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-2,text,true,,624,172,6,6,https://catalogo-produtos-beta.vercel.app/api/items,224,0,0
+1794352492356,144,GET Home,200,OK,Usuarios Virtuais (20) 1-6,text,true,,2882,163,6,6,https://catalogo-produtos-beta.vercel.app/,144,0,48
+1794352492270,246,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-1,text,true,,624,172,6,6,https://catalogo-produtos-beta.vercel.app/api/items,246,0,0
+1794352492502,198,GET Health Check,200,OK,Usuarios Virtuais (20) 1-6,text,true,,435,173,7,7,https://catalogo-produtos-beta.vercel.app/api/health,198,0,0
+1794352492342,358,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-3,text,true,,624,172,7,7,https://catalogo-produtos-beta.vercel.app/api/items,358,0,0
+1794352492440,292,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-2,text,true,,453,242,7,7,https://catalogo-produtos-beta.vercel.app/api/items,292,0,0
+1794352492607,127,GET Home,200,OK,Usuarios Virtuais (20) 1-7,text,true,,2882,163,7,7,https://catalogo-produtos-beta.vercel.app/,127,0,100
+1794352492734,101,GET Home,200,OK,Usuarios Virtuais (20) 1-2,text,true,,2882,163,7,7,https://catalogo-produtos-beta.vercel.app/,100,0,0
+1794352492518,340,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-1,text,true,,453,242,8,8,https://catalogo-produtos-beta.vercel.app/api/items,340,0,0
+1794352492735,169,GET Health Check,200,OK,Usuarios Virtuais (20) 1-7,text,true,,435,173,8,8,https://catalogo-produtos-beta.vercel.app/api/health,169,0,0
+1794352492701,250,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-3,text,true,,453,242,8,8,https://catalogo-produtos-beta.vercel.app/api/items,250,0,0
+1794352492205,811,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-4,text,true,,633,172,8,8,https://catalogo-produtos-beta.vercel.app/api/items,811,0,0
+1794352492953,63,GET Home,200,OK,Usuarios Virtuais (20) 1-3,text,true,,2882,163,8,8,https://catalogo-produtos-beta.vercel.app/,63,0,0
+1794352492836,180,GET Health Check,200,OK,Usuarios Virtuais (20) 1-2,text,true,,435,173,8,8,https://catalogo-produtos-beta.vercel.app/api/health,180,0,0
+1794352492701,315,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-6,text,true,,733,172,8,8,https://catalogo-produtos-beta.vercel.app/api/items,315,0,0
+1794352492373,719,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-5,text,true,,579,172,8,8,https://catalogo-produtos-beta.vercel.app/api/items,719,0,0
+1794352492856,272,GET Home,200,OK,Usuarios Virtuais (20) 1-8,text,true,,2882,163,9,9,https://catalogo-produtos-beta.vercel.app/,272,0,167
+1794352492859,325,GET Home,200,OK,Usuarios Virtuais (20) 1-1,text,true,,2882,163,9,9,https://catalogo-produtos-beta.vercel.app/,325,0,0
+1794352493105,98,GET Home,200,OK,Usuarios Virtuais (20) 1-9,text,true,,2882,163,9,9,https://catalogo-produtos-beta.vercel.app/,98,0,39
+1794352493017,186,GET Health Check,200,OK,Usuarios Virtuais (20) 1-3,text,true,,435,173,9,9,https://catalogo-produtos-beta.vercel.app/api/health,185,0,0
+1794352492906,352,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-7,text,true,,579,172,9,9,https://catalogo-produtos-beta.vercel.app/api/items,352,0,0
+1794352493017,290,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-4,text,true,,453,242,9,9,https://catalogo-produtos-beta.vercel.app/api/items,289,0,0
+1794352493308,31,GET Home,200,OK,Usuarios Virtuais (20) 1-4,text,true,,2882,163,9,9,https://catalogo-produtos-beta.vercel.app/,31,0,0
+1794352493129,217,GET Health Check,200,OK,Usuarios Virtuais (20) 1-8,text,true,,435,173,9,9,https://catalogo-produtos-beta.vercel.app/api/health,217,0,0
+1794352493018,328,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-6,text,true,,452,241,9,9,https://catalogo-produtos-beta.vercel.app/api/items,328,0,0
+1794352493017,329,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-2,text,true,,733,172,9,9,https://catalogo-produtos-beta.vercel.app/api/items,329,0,0
+1794352493185,172,GET Health Check,200,OK,Usuarios Virtuais (20) 1-1,text,true,,435,173,10,10,https://catalogo-produtos-beta.vercel.app/api/health,172,0,0
+1794352493347,20,GET Home,200,OK,Usuarios Virtuais (20) 1-6,text,true,,2882,163,10,10,https://catalogo-produtos-beta.vercel.app/,20,0,0
+1794352493093,312,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-5,text,true,,453,242,10,10,https://catalogo-produtos-beta.vercel.app/api/items,312,0,0
+1794352493406,19,GET Home,200,OK,Usuarios Virtuais (20) 1-5,text,true,,2882,163,10,10,https://catalogo-produtos-beta.vercel.app/,19,0,0
+1794352493355,119,GET Home,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2882,163,10,10,https://catalogo-produtos-beta.vercel.app/,119,0,76
+1794352493341,155,GET Health Check,200,OK,Usuarios Virtuais (20) 1-4,text,true,,435,173,10,10,https://catalogo-produtos-beta.vercel.app/api/health,155,0,0
+1794352493204,312,GET Health Check,200,OK,Usuarios Virtuais (20) 1-9,text,true,,435,173,10,10,https://catalogo-produtos-beta.vercel.app/api/health,312,0,0
+1794352493368,166,GET Health Check,200,OK,Usuarios Virtuais (20) 1-6,text,true,,435,173,10,10,https://catalogo-produtos-beta.vercel.app/api/health,166,0,0
+1794352493204,338,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-3,text,true,,733,172,10,10,https://catalogo-produtos-beta.vercel.app/api/items,338,0,0
+1794352493347,250,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-2,text,true,,452,241,10,10,https://catalogo-produtos-beta.vercel.app/api/items,250,0,0
+1794352493426,176,GET Health Check,200,OK,Usuarios Virtuais (20) 1-5,text,true,,435,173,10,10,https://catalogo-produtos-beta.vercel.app/api/health,176,0,0
+1794352493599,25,GET Home,200,OK,Usuarios Virtuais (20) 1-2,text,true,,2882,163,11,11,https://catalogo-produtos-beta.vercel.app/,25,0,0
+1794352493475,161,GET Health Check,200,OK,Usuarios Virtuais (20) 1-10,text,true,,435,173,11,11,https://catalogo-produtos-beta.vercel.app/api/health,161,0,0
+1794352493358,278,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-1,text,true,,786,172,11,11,https://catalogo-produtos-beta.vercel.app/api/items,278,0,0
+1794352493259,380,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-7,text,true,,453,242,11,11,https://catalogo-produtos-beta.vercel.app/api/items,380,0,0
+1794352493347,311,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-8,text,true,,741,172,11,11,https://catalogo-produtos-beta.vercel.app/api/items,311,0,0
+1794352493639,38,GET Home,200,OK,Usuarios Virtuais (20) 1-7,text,true,,2882,163,11,11,https://catalogo-produtos-beta.vercel.app/,38,0,0
+1794352493604,107,GET Home,200,OK,Usuarios Virtuais (20) 1-11,text,true,,2882,163,11,11,https://catalogo-produtos-beta.vercel.app/,107,0,56
+1794352493625,154,GET Health Check,200,OK,Usuarios Virtuais (20) 1-2,text,true,,435,173,11,11,https://catalogo-produtos-beta.vercel.app/api/health,154,0,0
+1794352493517,316,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-9,text,true,,741,172,11,11,https://catalogo-produtos-beta.vercel.app/api/items,316,0,0
+1794352493543,290,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-3,text,true,,453,242,11,11,https://catalogo-produtos-beta.vercel.app/api/items,290,0,0
+1794352493535,298,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-6,text,true,,741,172,11,11,https://catalogo-produtos-beta.vercel.app/api/items,298,0,0
+1794352493497,336,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-4,text,true,,840,172,11,11,https://catalogo-produtos-beta.vercel.app/api/items,336,0,0
+1794352493637,221,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-1,text,true,,454,242,12,12,https://catalogo-produtos-beta.vercel.app/api/items,221,0,0
+1794352493712,155,GET Health Check,200,OK,Usuarios Virtuais (20) 1-11,text,true,,435,173,12,12,https://catalogo-produtos-beta.vercel.app/api/health,155,0,0
+1794352493678,200,GET Health Check,200,OK,Usuarios Virtuais (20) 1-7,text,true,,435,173,12,12,https://catalogo-produtos-beta.vercel.app/api/health,200,0,0
+1794352493659,221,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-8,text,true,,453,242,12,12,https://catalogo-produtos-beta.vercel.app/api/items,221,0,0
+1794352493858,81,GET Home,200,OK,Usuarios Virtuais (20) 1-1,text,true,,2882,163,12,12,https://catalogo-produtos-beta.vercel.app/,81,0,0
+1794352493834,105,GET Home,200,OK,Usuarios Virtuais (20) 1-3,text,true,,2882,163,12,12,https://catalogo-produtos-beta.vercel.app/,105,0,0
+1794352493603,336,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-5,text,true,,895,172,12,12,https://catalogo-produtos-beta.vercel.app/api/items,336,0,0
+1794352493880,71,GET Home,200,OK,Usuarios Virtuais (20) 1-8,text,true,,2882,163,12,12,https://catalogo-produtos-beta.vercel.app/,71,0,0
+1794352493853,128,GET Home,200,OK,Usuarios Virtuais (20) 1-12,text,true,,2882,163,12,12,https://catalogo-produtos-beta.vercel.app/,128,0,90
+1794352493637,344,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-10,text,true,,688,172,12,12,https://catalogo-produtos-beta.vercel.app/api/items,344,0,0
+1794352493952,173,GET Health Check,200,OK,Usuarios Virtuais (20) 1-8,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,172,0,0
+1794352493780,345,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-2,text,true,,688,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,345,0,0
+1794352493940,188,GET Health Check,200,OK,Usuarios Virtuais (20) 1-3,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,188,0,0
+1794352493940,193,GET Health Check,200,OK,Usuarios Virtuais (20) 1-1,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,193,0,0
+1794352493982,151,GET Health Check,200,OK,Usuarios Virtuais (20) 1-12,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,151,0,0
+1794352493878,267,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-7,text,true,,895,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,267,0,0
+1794352493834,345,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-6,text,true,,453,242,13,13,https://catalogo-produtos-beta.vercel.app/api/items,345,0,0
+1794352494106,83,GET Home,200,OK,Usuarios Virtuais (20) 1-13,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,83,0,53
+1794352493834,383,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-9,text,true,,454,242,13,13,https://catalogo-produtos-beta.vercel.app/api/items,383,0,0
+1794352494180,37,GET Home,200,OK,Usuarios Virtuais (20) 1-6,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,37,0,0
+1794352493834,393,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-4,text,true,,453,242,13,13,https://catalogo-produtos-beta.vercel.app/api/items,393,0,0
+1794352494217,22,GET Home,200,OK,Usuarios Virtuais (20) 1-9,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,22,0,0
+1794352493867,373,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-11,text,true,,950,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,373,0,0
+1794352494228,22,GET Home,200,OK,Usuarios Virtuais (20) 1-4,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,22,0,0
+1794352493940,333,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-5,text,true,,454,242,13,13,https://catalogo-produtos-beta.vercel.app/api/items,333,0,0
+1794352493982,363,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-10,text,true,,455,243,13,13,https://catalogo-produtos-beta.vercel.app/api/items,363,0,0
+1794352494125,220,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-2,text,true,,454,242,13,13,https://catalogo-produtos-beta.vercel.app/api/items,220,0,0
+1794352494274,71,GET Home,200,OK,Usuarios Virtuais (20) 1-5,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,71,0,0
+1794352494125,244,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-8,text,true,,742,172,14,14,https://catalogo-produtos-beta.vercel.app/api/items,244,0,0
+1794352494217,152,GET Health Check,200,OK,Usuarios Virtuais (20) 1-6,text,true,,435,173,14,14,https://catalogo-produtos-beta.vercel.app/api/health,152,0,0
+1794352494190,179,GET Health Check,200,OK,Usuarios Virtuais (20) 1-13,text,true,,435,173,14,14,https://catalogo-produtos-beta.vercel.app/api/health,179,0,0
+1794352494129,240,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-3,text,true,,1116,172,14,14,https://catalogo-produtos-beta.vercel.app/api/items,240,0,0
+1794352494146,238,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-7,text,true,,454,242,14,14,https://catalogo-produtos-beta.vercel.app/api/items,238,0,0
+1794352494240,154,GET Health Check,200,OK,Usuarios Virtuais (20) 1-9,text,true,,435,173,14,14,https://catalogo-produtos-beta.vercel.app/api/health,154,0,0
+1794352494250,176,GET Health Check,200,OK,Usuarios Virtuais (20) 1-4,text,true,,435,173,14,14,https://catalogo-produtos-beta.vercel.app/api/health,176,0,0
+1794352494346,80,GET Home,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2882,163,14,14,https://catalogo-produtos-beta.vercel.app/,80,0,0
+1794352494346,80,GET Home,200,OK,Usuarios Virtuais (20) 1-2,text,true,,2882,163,14,14,https://catalogo-produtos-beta.vercel.app/,80,0,0
+1794352494134,337,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-12,text,true,,849,172,14,14,https://catalogo-produtos-beta.vercel.app/api/items,337,0,0
+1794352494385,94,GET Home,200,OK,Usuarios Virtuais (20) 1-7,text,true,,2882,163,14,14,https://catalogo-produtos-beta.vercel.app/,94,0,0
+1794352494354,178,GET Home,200,OK,Usuarios Virtuais (20) 1-14,text,true,,2882,163,14,14,https://catalogo-produtos-beta.vercel.app/,178,0,112
+1794352494241,291,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-11,text,true,,455,243,14,14,https://catalogo-produtos-beta.vercel.app/api/items,291,0,0
+1794352494346,194,GET Health Check,200,OK,Usuarios Virtuais (20) 1-5,text,true,,435,173,14,14,https://catalogo-produtos-beta.vercel.app/api/health,194,0,0
+1794352494134,410,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-1,text,true,,579,172,14,14,https://catalogo-produtos-beta.vercel.app/api/items,410,0,0
+1794352494533,27,GET Home,200,OK,Usuarios Virtuais (20) 1-11,text,true,,2882,163,14,14,https://catalogo-produtos-beta.vercel.app/,27,0,0
+1794352494427,145,GET Health Check,200,OK,Usuarios Virtuais (20) 1-2,text,true,,435,173,14,14,https://catalogo-produtos-beta.vercel.app/api/health,144,0,0
+1794352494427,150,GET Health Check,200,OK,Usuarios Virtuais (20) 1-10,text,true,,435,173,14,14,https://catalogo-produtos-beta.vercel.app/api/health,150,0,0
+1794352494370,243,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-3,text,true,,453,242,15,15,https://catalogo-produtos-beta.vercel.app/api/items,243,0,0
+1794352494369,254,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-6,text,true,,905,172,15,15,https://catalogo-produtos-beta.vercel.app/api/items,254,0,0
+1794352494480,154,GET Health Check,200,OK,Usuarios Virtuais (20) 1-7,text,true,,435,173,15,15,https://catalogo-produtos-beta.vercel.app/api/health,154,0,0
+1794352494370,270,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-13,text,true,,905,172,15,15,https://catalogo-produtos-beta.vercel.app/api/items,270,0,0
+1794352494369,298,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-8,text,true,,454,242,15,15,https://catalogo-produtos-beta.vercel.app/api/items,298,0,0
+1794352494614,73,GET Home,200,OK,Usuarios Virtuais (20) 1-3,text,true,,2882,163,15,15,https://catalogo-produtos-beta.vercel.app/,73,0,0
+1794352494394,299,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-9,text,true,,1226,172,15,15,https://catalogo-produtos-beta.vercel.app/api/items,299,0,0
+1794352494533,160,GET Health Check,200,OK,Usuarios Virtuais (20) 1-14,text,true,,435,173,15,15,https://catalogo-produtos-beta.vercel.app/api/health,160,0,0
+1794352494604,91,GET Home,200,OK,Usuarios Virtuais (20) 1-15,text,true,,2882,163,15,15,https://catalogo-produtos-beta.vercel.app/,90,0,52
+1794352494667,31,GET Home,200,OK,Usuarios Virtuais (20) 1-8,text,true,,2882,163,15,15,https://catalogo-produtos-beta.vercel.app/,31,0,0
+1794352494561,166,GET Health Check,200,OK,Usuarios Virtuais (20) 1-11,text,true,,435,173,15,15,https://catalogo-produtos-beta.vercel.app/api/health,166,0,0
+1794352494427,316,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-4,text,true,,1226,172,15,15,https://catalogo-produtos-beta.vercel.app/api/items,316,0,0
+1794352494472,287,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-12,text,true,,454,242,15,15,https://catalogo-produtos-beta.vercel.app/api/items,287,0,0
+1794352494541,222,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-5,text,true,,905,172,15,15,https://catalogo-produtos-beta.vercel.app/api/items,222,0,0
+1794352494544,229,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-1,text,true,,454,242,15,15,https://catalogo-produtos-beta.vercel.app/api/items,229,0,0
+1794352494577,196,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-10,text,true,,905,172,15,15,https://catalogo-produtos-beta.vercel.app/api/items,196,0,0
+1794352494760,32,GET Home,200,OK,Usuarios Virtuais (20) 1-12,text,true,,2882,163,15,15,https://catalogo-produtos-beta.vercel.app/,32,0,0
+1794352494774,56,GET Home,200,OK,Usuarios Virtuais (20) 1-1,text,true,,2882,163,15,15,https://catalogo-produtos-beta.vercel.app/,56,0,0
+1794352494635,206,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-7,text,true,,1336,172,15,15,https://catalogo-produtos-beta.vercel.app/api/items,206,0,0
+1794352494688,160,GET Health Check,200,OK,Usuarios Virtuais (20) 1-3,text,true,,435,173,15,15,https://catalogo-produtos-beta.vercel.app/api/health,160,0,0
+1794352494623,254,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-6,text,true,,454,242,16,16,https://catalogo-produtos-beta.vercel.app/api/items,254,0,0
+1794352494695,188,GET Health Check,200,OK,Usuarios Virtuais (20) 1-15,text,true,,435,173,16,16,https://catalogo-produtos-beta.vercel.app/api/health,188,0,0
+1794352494572,336,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-2,text,true,,1391,172,16,16,https://catalogo-produtos-beta.vercel.app/api/items,336,0,0
+1794352494698,269,GET Health Check,200,OK,Usuarios Virtuais (20) 1-8,text,true,,435,173,16,16,https://catalogo-produtos-beta.vercel.app/api/health,268,0,0
+1794352494878,88,GET Home,200,OK,Usuarios Virtuais (20) 1-6,text,true,,2882,163,16,16,https://catalogo-produtos-beta.vercel.app/,88,0,0
+1794352494640,327,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-13,text,true,,454,242,16,16,https://catalogo-produtos-beta.vercel.app/api/items,327,0,0
+1794352494743,227,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-4,text,true,,454,242,16,16,https://catalogo-produtos-beta.vercel.app/api/items,227,0,0
+1794352494793,177,GET Health Check,200,OK,Usuarios Virtuais (20) 1-12,text,true,,435,173,16,16,https://catalogo-produtos-beta.vercel.app/api/health,177,0,0
+1794352494728,252,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-11,text,true,,960,172,16,16,https://catalogo-produtos-beta.vercel.app/api/items,251,0,0
+1794352494694,291,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-9,text,true,,454,242,16,16,https://catalogo-produtos-beta.vercel.app/api/items,291,0,0
+1794352494831,157,GET Health Check,200,OK,Usuarios Virtuais (20) 1-1,text,true,,435,173,16,16,https://catalogo-produtos-beta.vercel.app/api/health,157,0,0
+1794352494986,53,GET Home,200,OK,Usuarios Virtuais (20) 1-9,text,true,,2882,163,16,16,https://catalogo-produtos-beta.vercel.app/,53,0,0
+1794352494970,70,GET Home,200,OK,Usuarios Virtuais (20) 1-4,text,true,,2882,163,16,16,https://catalogo-produtos-beta.vercel.app/,70,0,0
+1794352494763,276,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-5,text,true,,454,242,16,16,https://catalogo-produtos-beta.vercel.app/api/items,276,0,0
+1794352494968,72,GET Home,200,OK,Usuarios Virtuais (20) 1-13,text,true,,2882,163,16,16,https://catalogo-produtos-beta.vercel.app/,72,0,0
+1794352494853,187,GET Home,200,OK,Usuarios Virtuais (20) 1-16,text,true,,2882,163,16,16,https://catalogo-produtos-beta.vercel.app/,187,0,120
+1794352494774,271,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-10,text,true,,454,242,16,16,https://catalogo-produtos-beta.vercel.app/api/items,271,0,0
+1794352494694,357,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-14,text,true,,1070,172,16,16,https://catalogo-produtos-beta.vercel.app/api/items,356,0,0
+1794352495045,25,GET Home,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2882,163,16,16,https://catalogo-produtos-beta.vercel.app/,25,0,0
+1794352494849,249,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-3,text,true,,1502,172,16,16,https://catalogo-produtos-beta.vercel.app/api/items,249,0,0
+1794352494841,268,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-7,text,true,,454,242,17,17,https://catalogo-produtos-beta.vercel.app/api/items,268,0,0
+1794352495109,32,GET Home,200,OK,Usuarios Virtuais (20) 1-7,text,true,,2882,163,17,17,https://catalogo-produtos-beta.vercel.app/,32,0,0
+1794352494883,260,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-15,text,true,,1125,172,17,17,https://catalogo-produtos-beta.vercel.app/api/items,260,0,0
+1794352494968,175,GET Health Check,200,OK,Usuarios Virtuais (20) 1-6,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,175,0,0
+1794352495040,112,GET Home,200,OK,Usuarios Virtuais (20) 1-5,text,true,,2882,163,17,17,https://catalogo-produtos-beta.vercel.app/,112,0,0
+1794352495040,151,GET Health Check,200,OK,Usuarios Virtuais (20) 1-16,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,151,0,0
+1794352495040,155,GET Health Check,200,OK,Usuarios Virtuais (20) 1-9,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,155,0,0
+1794352495040,156,GET Health Check,200,OK,Usuarios Virtuais (20) 1-13,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,156,0,0
+1794352495040,165,GET Health Check,200,OK,Usuarios Virtuais (20) 1-4,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,165,0,0
+1794352494910,303,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-2,text,true,,452,240,17,17,https://catalogo-produtos-beta.vercel.app/api/items,303,0,0
+1794352495071,162,GET Health Check,200,OK,Usuarios Virtuais (20) 1-10,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,162,0,0
+1794352495106,167,GET Home,200,OK,Usuarios Virtuais (20) 1-17,text,true,,2882,163,17,17,https://catalogo-produtos-beta.vercel.app/,167,0,66
+1794352494968,305,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-8,text,true,,742,172,17,17,https://catalogo-produtos-beta.vercel.app/api/items,305,0,0
+1794352494989,284,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-1,text,true,,1125,172,17,17,https://catalogo-produtos-beta.vercel.app/api/items,284,0,0
+1794352495214,59,GET Home,200,OK,Usuarios Virtuais (20) 1-2,text,true,,2882,163,17,17,https://catalogo-produtos-beta.vercel.app/,59,0,0
+1794352495142,158,GET Health Check,200,OK,Usuarios Virtuais (20) 1-7,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,158,0,0
+1794352495099,252,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-3,text,true,,454,242,17,17,https://catalogo-produtos-beta.vercel.app/api/items,252,0,0
+1794352494970,385,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-12,text,true,,633,172,18,18,https://catalogo-produtos-beta.vercel.app/api/items,385,0,0
+1794352495051,315,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-14,text,true,,455,243,18,18,https://catalogo-produtos-beta.vercel.app/api/items,315,0,0
+1794352495152,215,GET Health Check,200,OK,Usuarios Virtuais (20) 1-5,text,true,,435,173,18,18,https://catalogo-produtos-beta.vercel.app/api/health,215,0,0
+1794352494980,392,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-11,text,true,,455,243,18,18,https://catalogo-produtos-beta.vercel.app/api/items,392,0,0
+1794352495143,316,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-6,text,true,,1236,172,18,18,https://catalogo-produtos-beta.vercel.app/api/items,316,0,0
+1794352495197,281,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-13,text,true,,742,172,18,18,https://catalogo-produtos-beta.vercel.app/api/items,280,0,0
+1794352495143,339,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-15,text,true,,455,243,18,18,https://catalogo-produtos-beta.vercel.app/api/items,339,0,0
+1794352495234,264,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-10,text,true,,1236,172,18,18,https://catalogo-produtos-beta.vercel.app/api/items,264,0,0
+1794352495367,147,GET Home,200,OK,Usuarios Virtuais (20) 1-14,text,true,,2882,163,18,18,https://catalogo-produtos-beta.vercel.app/,147,0,0
+1794352495352,163,GET Home,200,OK,Usuarios Virtuais (20) 1-3,text,true,,2882,163,18,18,https://catalogo-produtos-beta.vercel.app/,163,0,0
+1794352495373,143,GET Home,200,OK,Usuarios Virtuais (20) 1-11,text,true,,2882,163,18,18,https://catalogo-produtos-beta.vercel.app/,143,0,0
+1794352495483,35,GET Home,200,OK,Usuarios Virtuais (20) 1-15,text,true,,2882,163,18,18,https://catalogo-produtos-beta.vercel.app/,35,0,0
+1794352495206,336,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-4,text,true,,633,172,18,18,https://catalogo-produtos-beta.vercel.app/api/items,336,0,0
+1794352495354,213,GET Home,200,OK,Usuarios Virtuais (20) 1-18,text,true,,2882,163,18,18,https://catalogo-produtos-beta.vercel.app/,213,0,192
+1794352495191,379,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-16,text,true,,1667,172,18,18,https://catalogo-produtos-beta.vercel.app/api/items,379,0,0
+1794352495196,447,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-9,text,true,,579,172,19,19,https://catalogo-produtos-beta.vercel.app/api/items,447,0,0
+1794352495274,371,GET Health Check,200,OK,Usuarios Virtuais (20) 1-2,text,true,,435,173,19,19,https://catalogo-produtos-beta.vercel.app/api/health,371,0,0
+1794352495274,385,GET Health Check,200,OK,Usuarios Virtuais (20) 1-17,text,true,,435,173,19,19,https://catalogo-produtos-beta.vercel.app/api/health,385,0,0
+1794352495516,150,GET Health Check,200,OK,Usuarios Virtuais (20) 1-11,text,true,,435,173,19,19,https://catalogo-produtos-beta.vercel.app/api/health,150,0,0
+1794352495602,69,GET Home,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2882,163,19,19,https://catalogo-produtos-beta.vercel.app/,69,0,46
+1794352495514,157,GET Health Check,200,OK,Usuarios Virtuais (20) 1-14,text,true,,435,173,19,19,https://catalogo-produtos-beta.vercel.app/api/health,157,0,0
+1794352495518,155,GET Health Check,200,OK,Usuarios Virtuais (20) 1-15,text,true,,435,173,19,19,https://catalogo-produtos-beta.vercel.app/api/health,155,0,0
+1794352495516,176,GET Health Check,200,OK,Usuarios Virtuais (20) 1-3,text,true,,435,173,19,19,https://catalogo-produtos-beta.vercel.app/api/health,176,0,0
+1794352495460,241,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-6,text,true,,451,240,19,19,https://catalogo-produtos-beta.vercel.app/api/items,241,0,0
+1794352495367,341,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-5,text,true,,742,172,19,19,https://catalogo-produtos-beta.vercel.app/api/items,341,0,0
+1794352495478,241,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-13,text,true,,454,243,19,19,https://catalogo-produtos-beta.vercel.app/api/items,241,0,0
+1794352495702,17,GET Home,200,OK,Usuarios Virtuais (20) 1-6,text,true,,2882,163,19,19,https://catalogo-produtos-beta.vercel.app/,17,0,0
+1794352495301,418,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-7,text,true,,1667,172,19,19,https://catalogo-produtos-beta.vercel.app/api/items,418,0,0
+1794352495568,177,GET Health Check,200,OK,Usuarios Virtuais (20) 1-18,text,true,,435,173,19,19,https://catalogo-produtos-beta.vercel.app/api/health,177,0,0
+1794352495720,45,GET Home,200,OK,Usuarios Virtuais (20) 1-13,text,true,,2882,163,19,19,https://catalogo-produtos-beta.vercel.app/,45,0,0
+1794352495274,515,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-8,text,true,,453,242,19,19,https://catalogo-produtos-beta.vercel.app/api/items,515,0,0
+1794352495274,534,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-1,text,true,,454,242,19,19,https://catalogo-produtos-beta.vercel.app/api/items,533,0,0
+1794352495671,154,GET Health Check,200,OK,Usuarios Virtuais (20) 1-19,text,true,,435,173,19,19,https://catalogo-produtos-beta.vercel.app/api/health,154,0,0
+1794352495790,36,GET Home,200,OK,Usuarios Virtuais (20) 1-8,text,true,,2882,163,19,19,https://catalogo-produtos-beta.vercel.app/,35,0,0
+1794352495571,254,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-16,text,true,,455,243,19,19,https://catalogo-produtos-beta.vercel.app/api/items,254,0,0
+1794352495809,36,GET Home,200,OK,Usuarios Virtuais (20) 1-1,text,true,,2882,163,19,19,https://catalogo-produtos-beta.vercel.app/,36,0,0
+1794352495826,25,GET Home,200,OK,Usuarios Virtuais (20) 1-16,text,true,,2882,163,19,19,https://catalogo-produtos-beta.vercel.app/,25,0,0
+1794352495542,311,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-4,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,311,0,0
+1794352495720,149,GET Health Check,200,OK,Usuarios Virtuais (20) 1-6,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,149,0,0
+1794352495498,371,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-10,text,true,,453,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,371,0,0
+1794352495667,205,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-11,text,true,,1667,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,205,0,0
+1794352495355,529,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-12,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,528,0,0
+1794352495671,213,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-14,text,true,,1403,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,213,0,0
+1794352495870,16,GET Home,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,16,0,0
+1794352495853,37,GET Home,200,OK,Usuarios Virtuais (20) 1-4,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,37,0,0
+1794352495765,146,GET Health Check,200,OK,Usuarios Virtuais (20) 1-13,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,146,0,0
+1794352495884,30,GET Home,200,OK,Usuarios Virtuais (20) 1-12,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,30,0,0
+1794352495852,79,GET Home,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,78,0,54
+1794352495692,261,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-3,text,true,,1458,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,261,0,0
+1794352495644,309,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-9,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,309,0,0
+1794352495646,308,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-2,text,true,,1723,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,308,0,0
+1794352495660,313,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-17,text,true,,1723,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,313,0,0
+1794352495709,264,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-5,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,264,0,0
+1794352495826,161,GET Health Check,200,OK,Usuarios Virtuais (20) 1-8,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,161,0,0
+1794352495954,34,GET Home,200,OK,Usuarios Virtuais (20) 1-9,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,34,0,0
+1794352495720,268,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-7,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,267,0,0
+1794352495845,148,GET Health Check,200,OK,Usuarios Virtuais (20) 1-1,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,148,0,0
+1794352495852,144,GET Health Check,200,OK,Usuarios Virtuais (20) 1-16,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,144,0,0
+1794352495674,331,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-15,text,true,,796,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,331,0,0
+1794352495974,31,GET Home,200,OK,Usuarios Virtuais (20) 1-5,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,31,0,0
+1794352495914,165,GET Health Check,200,OK,Usuarios Virtuais (20) 1-12,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,165,0,0
+1794352495886,193,GET Health Check,200,OK,Usuarios Virtuais (20) 1-10,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,193,0,0
+1794352495988,91,GET Home,200,OK,Usuarios Virtuais (20) 1-7,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,91,0,0
+1794352495890,189,GET Health Check,200,OK,Usuarios Virtuais (20) 1-4,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,189,0,0
+1794352495746,335,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-18,text,true,,1513,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,334,0,0
+1794352495873,233,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-11,text,true,,454,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,233,0,0
+1794352495932,181,GET Health Check,200,OK,Usuarios Virtuais (20) 1-20,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,181,0,0
+1794352495826,293,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-19,text,true,,1513,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,293,0,0
+1794352495870,254,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-6,text,true,,1513,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,254,0,0
+1794352495955,219,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-2,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,219,0,0
+1794352496107,67,GET Home,200,OK,Usuarios Virtuais (20) 1-11,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,67,0,0
+1794352496005,169,GET Health Check,200,OK,Usuarios Virtuais (20) 1-5,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,169,0,0
+1794352495988,186,GET Health Check,200,OK,Usuarios Virtuais (20) 1-9,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,186,0,0
+1794352496175,33,GET Home,200,OK,Usuarios Virtuais (20) 1-2,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,33,0,0
+1794352495954,274,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-3,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,274,0,0
+1794352495997,232,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-16,text,true,,906,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,232,0,0
+1794352496079,154,GET Health Check,200,OK,Usuarios Virtuais (20) 1-7,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,154,0,0
+1794352495994,271,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-1,text,true,,1568,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,271,0,0
+1794352495911,354,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-13,text,true,,1568,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,354,0,0
+1794352495884,381,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-14,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,381,0,0
+1794352496229,38,GET Home,200,OK,Usuarios Virtuais (20) 1-3,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,38,0,0
+1794352495974,321,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-17,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,321,0,0
+1794352496266,33,GET Home,200,OK,Usuarios Virtuais (20) 1-14,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,33,0,0
+1794352496079,231,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-4,text,true,,962,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,231,0,0
+1794352496295,21,GET Home,200,OK,Usuarios Virtuais (20) 1-17,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,21,0,0
+1794352496114,211,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-20,text,true,,962,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,211,0,0
+1794352496175,154,GET Health Check,200,OK,Usuarios Virtuais (20) 1-11,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,154,0,0
+1794352496079,275,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-12,text,true,,1623,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,275,0,0
+1794352496210,147,GET Health Check,200,OK,Usuarios Virtuais (20) 1-2,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,147,0,0
+1794352496005,365,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-15,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,365,0,0
+1794352496120,255,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-19,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,255,0,0
+1794352496371,22,GET Home,200,OK,Usuarios Virtuais (20) 1-15,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,22,0,0
+1794352496081,312,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-18,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,312,0,0
+1794352496376,19,GET Home,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,19,0,0
+1794352496175,233,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-5,text,true,,962,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,233,0,0
+1794352496079,329,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-10,text,true,,740,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,329,0,0
+1794352496125,293,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-6,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,293,0,0
+1794352496394,24,GET Home,200,OK,Usuarios Virtuais (20) 1-18,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,24,0,0
+1794352496268,159,GET Health Check,200,OK,Usuarios Virtuais (20) 1-3,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,159,0,0
+1794352495988,459,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-8,text,true,,1946,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,459,0,0
+1794352496419,41,GET Home,200,OK,Usuarios Virtuais (20) 1-6,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,41,0,0
+1794352496317,161,GET Health Check,200,OK,Usuarios Virtuais (20) 1-17,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,161,0,0
+1794352496300,182,GET Health Check,200,OK,Usuarios Virtuais (20) 1-14,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,182,0,0
+1794352496230,260,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-16,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,260,0,0
+1794352496266,227,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-1,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,227,0,0
+1794352496493,18,GET Home,200,OK,Usuarios Virtuais (20) 1-1,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,18,0,0
+1794352496175,342,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-9,text,true,,1946,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,342,0,0
+1794352496491,26,GET Home,200,OK,Usuarios Virtuais (20) 1-16,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,26,0,0
+1794352496266,264,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-13,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,263,0,0
+1794352496394,146,GET Health Check,200,OK,Usuarios Virtuais (20) 1-15,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,146,0,0
+1794352496530,29,GET Home,200,OK,Usuarios Virtuais (20) 1-13,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,29,0,0
+1794352496395,167,GET Health Check,200,OK,Usuarios Virtuais (20) 1-19,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,166,0,0
+1794352496325,255,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-20,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,255,0,0
+1794352496419,170,GET Health Check,200,OK,Usuarios Virtuais (20) 1-18,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,170,0,0
+1794352496234,358,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-7,text,true,,2001,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,358,0,0
+1794352496311,281,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-4,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,281,0,0
+1794352496581,21,GET Home,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,21,0,0
+1794352496460,146,GET Health Check,200,OK,Usuarios Virtuais (20) 1-6,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,146,0,0
+1794352496355,251,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-12,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,251,0,0
+1794352496357,257,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-2,text,true,,2001,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,257,0,0
+1794352496329,285,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-11,text,true,,1845,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,285,0,0
+1794352496592,24,GET Home,200,OK,Usuarios Virtuais (20) 1-4,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,23,0,0
+1794352496606,37,GET Home,200,OK,Usuarios Virtuais (20) 1-12,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,37,0,0
+1794352496512,159,GET Health Check,200,OK,Usuarios Virtuais (20) 1-1,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,159,0,0
+1794352496428,249,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-3,text,true,,1074,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,249,0,0
+1794352496560,148,GET Health Check,200,OK,Usuarios Virtuais (20) 1-13,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,148,0,0
+1794352496518,190,GET Health Check,200,OK,Usuarios Virtuais (20) 1-16,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,190,0,0
+1794352496447,268,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-8,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,268,0,0
+1794352496409,310,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-10,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,310,0,0
+1794352496409,313,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-5,text,true,,453,241,20,20,https://catalogo-produtos-beta.vercel.app/api/items,313,0,0
+1794352496540,200,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-15,text,true,,1954,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,200,0,0
+1794352496720,22,GET Home,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,22,0,0
+1794352496602,176,GET Health Check,200,OK,Usuarios Virtuais (20) 1-20,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,176,0,0
+1794352496722,56,GET Home,200,OK,Usuarios Virtuais (20) 1-5,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,56,0,0
+1794352496616,163,GET Health Check,200,OK,Usuarios Virtuais (20) 1-4,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,163,0,0
+1794352496644,143,GET Health Check,200,OK,Usuarios Virtuais (20) 1-12,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,143,0,0
+1794352496483,308,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-14,text,true,,1954,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,308,0,0
+1794352496479,318,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-17,text,true,,1074,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,318,0,0
+1794352496715,85,GET Home,200,OK,Usuarios Virtuais (20) 1-8,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,85,0,0
+1794352496606,200,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-6,text,true,,1129,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,200,0,0
+1794352496590,238,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-18,text,true,,1954,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,238,0,0
+1794352496592,236,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-7,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,236,0,0
+1794352496562,266,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2009,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,266,0,0
+1794352496518,310,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-9,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,310,0,0
+1794352496614,236,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-2,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,236,0,0
+1794352496829,59,GET Home,200,OK,Usuarios Virtuais (20) 1-9,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,59,0,0
+1794352496850,38,GET Home,200,OK,Usuarios Virtuais (20) 1-2,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,38,0,0
+1794352496742,153,GET Health Check,200,OK,Usuarios Virtuais (20) 1-10,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,153,0,0
+1794352496677,218,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-3,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,218,0,0
+1794352496779,145,GET Health Check,200,OK,Usuarios Virtuais (20) 1-5,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,145,0,0
+1794352496614,310,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-11,text,true,,453,241,20,20,https://catalogo-produtos-beta.vercel.app/api/items,310,0,0
+1794352496800,231,GET Health Check,200,OK,Usuarios Virtuais (20) 1-8,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,231,0,0
+1794352496708,324,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-13,text,true,,2165,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,324,0,0
+1794352496787,244,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-12,text,true,,1129,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,244,0,0
+1794352496672,360,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-1,text,true,,2064,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,360,0,0
+1794352496791,241,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-14,text,true,,454,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,241,0,0
+1794352496829,203,GET Home,200,OK,Usuarios Virtuais (20) 1-7,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,203,0,0
+1794352496798,234,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-17,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,234,0,0
+1794352496888,153,GET Health Check,200,OK,Usuarios Virtuais (20) 1-9,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,152,0,0
+1794352496888,160,GET Health Check,200,OK,Usuarios Virtuais (20) 1-2,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,159,0,0
+1794352496708,342,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-16,text,true,,2064,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,342,0,0
+1794352496779,271,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2064,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,271,0,0
+1794352496740,313,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-15,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,313,0,0
+1794352496896,185,GET Home,200,OK,Usuarios Virtuais (20) 1-3,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,185,0,0
+1794352497032,49,GET Home,200,OK,Usuarios Virtuais (20) 1-14,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,49,0,0
+1794352496924,158,GET Home,200,OK,Usuarios Virtuais (20) 1-11,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,158,0,0
+1794352496779,303,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-4,text,true,,2220,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,303,0,0
+1794352497033,49,GET Home,200,OK,Usuarios Virtuais (20) 1-17,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,49,0,0
+1794352497054,31,GET Home,200,OK,Usuarios Virtuais (20) 1-15,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,31,0,0
+1794352496828,298,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-18,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,297,0,0
+1794352497126,48,GET Home,200,OK,Usuarios Virtuais (20) 1-18,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,48,0,0
+1794352496806,372,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-6,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,372,0,0
+1794352496829,354,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-19,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,354,0,0
+1794352497032,151,GET Health Check,200,OK,Usuarios Virtuais (20) 1-7,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,151,0,0
+1794352497179,19,GET Home,200,OK,Usuarios Virtuais (20) 1-6,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,19,0,0
+1794352497183,25,GET Home,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,25,0,0
+1794352497081,150,GET Health Check,200,OK,Usuarios Virtuais (20) 1-14,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,150,0,0
+1794352497081,151,GET Health Check,200,OK,Usuarios Virtuais (20) 1-3,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,151,0,0
+1794352497082,153,GET Health Check,200,OK,Usuarios Virtuais (20) 1-11,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,153,0,0
+1794352497085,163,GET Health Check,200,OK,Usuarios Virtuais (20) 1-15,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,163,0,0
+1794352497082,168,GET Health Check,200,OK,Usuarios Virtuais (20) 1-17,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,168,0,0
+1794352497048,235,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-2,text,true,,579,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,234,0,0
+1794352497032,254,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-12,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,254,0,0
+1794352496924,366,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-5,text,true,,1185,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,366,0,0
+1794352497032,274,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-1,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,274,0,0
+1794352497050,260,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-16,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,260,0,0
+1794352497287,28,GET Home,200,OK,Usuarios Virtuais (20) 1-12,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,28,0,0
+1794352497174,152,GET Health Check,200,OK,Usuarios Virtuais (20) 1-18,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,152,0,0
+1794352497311,20,GET Home,200,OK,Usuarios Virtuais (20) 1-16,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,20,0,0
+1794352496895,438,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-10,text,true,,795,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,437,0,0
+1794352497199,145,GET Health Check,200,OK,Usuarios Virtuais (20) 1-6,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,145,0,0
+1794352497306,103,GET Home,200,OK,Usuarios Virtuais (20) 1-1,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,103,0,0
+1794352497032,377,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-8,text,true,,634,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,377,0,0
+1794352497041,368,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-9,text,true,,2330,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,368,0,0
+1794352497183,227,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-7,text,true,,2330,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,227,0,0
+1794352497050,360,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-20,text,true,,452,241,20,20,https://catalogo-produtos-beta.vercel.app/api/items,360,0,0
+1794352497082,336,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-4,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,336,0,0
+1794352497208,217,GET Health Check,200,OK,Usuarios Virtuais (20) 1-19,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,217,0,0
+1794352497410,21,GET Home,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,21,0,0
+1794352497032,409,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-13,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,409,0,0
+1794352497235,212,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-11,text,true,,1297,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,212,0,0
+1794352497233,228,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-3,text,true,,2385,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,228,0,0
+1794352497441,19,GET Home,200,OK,Usuarios Virtuais (20) 1-13,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,19,0,0
+1794352497420,46,GET Home,200,OK,Usuarios Virtuais (20) 1-4,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,46,0,0
+1794352497250,250,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-17,text,true,,2385,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,250,0,0
+1794352497232,290,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-14,text,true,,632,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,290,0,0
+1794352497248,274,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-15,text,true,,2385,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,274,0,0
+1794352497315,229,GET Health Check,200,OK,Usuarios Virtuais (20) 1-12,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,228,0,0
+1794352497331,216,GET Health Check,200,OK,Usuarios Virtuais (20) 1-16,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,216,0,0
+1794352497284,287,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-2,text,true,,452,240,20,20,https://catalogo-produtos-beta.vercel.app/api/items,287,0,0
+1794352497410,185,GET Health Check,200,OK,Usuarios Virtuais (20) 1-1,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,185,0,0
+1794352497432,164,GET Health Check,200,OK,Usuarios Virtuais (20) 1-20,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,164,0,0
+1794352497344,265,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-6,text,true,,1350,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,265,0,0
+1794352497290,321,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-5,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,321,0,0
+1794352497461,152,GET Health Check,200,OK,Usuarios Virtuais (20) 1-13,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,152,0,0
+1794352497572,48,GET Home,200,OK,Usuarios Virtuais (20) 1-2,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,48,0,0
+1794352497612,22,GET Home,200,OK,Usuarios Virtuais (20) 1-5,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,22,0,0
+1794352497470,170,GET Health Check,200,OK,Usuarios Virtuais (20) 1-4,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,170,0,0
+1794352497410,249,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-9,text,true,,453,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,249,0,0
+1794352497447,218,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-11,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,218,0,0
+1794352497659,33,GET Home,200,OK,Usuarios Virtuais (20) 1-9,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,33,0,0
+1794352497665,27,GET Home,200,OK,Usuarios Virtuais (20) 1-11,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,27,0,0
+1794352497426,266,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2440,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,266,0,0
+1794352497462,230,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-3,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,230,0,0
+1794352497410,286,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-8,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,286,0,0
+1794352497501,196,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-17,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,196,0,0
+1794352497698,42,GET Home,200,OK,Usuarios Virtuais (20) 1-17,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,42,0,0
+1794352497696,44,GET Home,200,OK,Usuarios Virtuais (20) 1-8,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,44,0,0
+1794352497333,407,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-10,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,407,0,0
+1794352497326,414,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-18,text,true,,632,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,414,0,0
+1794352497692,48,GET Home,200,OK,Usuarios Virtuais (20) 1-3,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,48,0,0
+1794352497410,345,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-7,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,345,0,0
+1794352497741,25,GET Home,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,25,0,0
+1794352497544,282,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-12,text,true,,2662,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,281,0,0
+1794352497634,192,GET Health Check,200,OK,Usuarios Virtuais (20) 1-5,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,192,0,0
+1794352497621,205,GET Health Check,200,OK,Usuarios Virtuais (20) 1-2,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,205,0,0
+1794352497756,70,GET Home,200,OK,Usuarios Virtuais (20) 1-7,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,70,0,0
+1794352497596,246,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-1,text,true,,1462,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,246,0,0
+1794352497692,150,GET Health Check,200,OK,Usuarios Virtuais (20) 1-9,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,150,0,0
+1794352497692,155,GET Health Check,200,OK,Usuarios Virtuais (20) 1-11,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,155,0,0
+1794352497609,239,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-6,text,true,,453,241,20,20,https://catalogo-produtos-beta.vercel.app/api/items,239,0,0
+1794352497848,24,GET Home,200,OK,Usuarios Virtuais (20) 1-6,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,24,0,0
+1794352497741,193,GET Health Check,200,OK,Usuarios Virtuais (20) 1-17,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,193,0,0
+1794352497741,193,GET Health Check,200,OK,Usuarios Virtuais (20) 1-8,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,193,0,0
+1794352497613,321,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-13,text,true,,1462,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,321,0,0
+1794352497523,411,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-14,text,true,,454,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,411,0,0
+1794352497547,387,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-16,text,true,,689,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,387,0,0
+1794352497741,193,GET Health Check,200,OK,Usuarios Virtuais (20) 1-3,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,193,0,0
+1794352497766,168,GET Health Check,200,OK,Usuarios Virtuais (20) 1-10,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,168,0,0
+1794352497596,338,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-20,text,true,,795,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,338,0,0
+1794352497641,312,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-4,text,true,,1462,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,312,0,0
+1794352497692,271,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-19,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,271,0,0
+1794352497826,145,GET Health Check,200,OK,Usuarios Virtuais (20) 1-7,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,145,0,0
+1794352497934,40,GET Home,200,OK,Usuarios Virtuais (20) 1-14,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,40,0,0
+1794352497523,456,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-15,text,true,,454,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,456,0,0
+1794352497741,265,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-18,text,true,,454,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,265,0,0
+1794352497963,43,GET Home,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,43,0,0
+1794352497872,160,GET Health Check,200,OK,Usuarios Virtuais (20) 1-6,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,160,0,0
+1794352498007,25,GET Home,200,OK,Usuarios Virtuais (20) 1-18,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,25,0,0
+1794352497980,52,GET Home,200,OK,Usuarios Virtuais (20) 1-15,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,52,0,0
+1794352497826,217,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-2,text,true,,1517,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,217,0,0
+1794352497975,150,GET Health Check,200,OK,Usuarios Virtuais (20) 1-14,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,150,0,0
+1794352497848,277,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-11,text,true,,1517,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,277,0,0
+1794352497842,297,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-1,text,true,,453,241,20,20,https://catalogo-produtos-beta.vercel.app/api/items,297,0,0
+1794352497934,214,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-3,text,true,,689,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,214,0,0
+1794352497842,311,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-9,text,true,,690,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,310,0,0
+1794352497826,328,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-5,text,true,,690,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,328,0,0
+1794352498007,152,GET Health Check,200,OK,Usuarios Virtuais (20) 1-19,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,152,0,0
+1794352497826,338,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-12,text,true,,454,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,338,0,0
+1794352498139,29,GET Home,200,OK,Usuarios Virtuais (20) 1-1,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,29,0,0
+1794352498032,144,GET Health Check,200,OK,Usuarios Virtuais (20) 1-15,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,144,0,0
+1794352498032,146,GET Health Check,200,OK,Usuarios Virtuais (20) 1-18,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,146,0,0
+1794352498165,17,GET Home,200,OK,Usuarios Virtuais (20) 1-12,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,17,0,0
+1794352497953,229,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-4,text,true,,453,241,20,20,https://catalogo-produtos-beta.vercel.app/api/items,229,0,0
+1794352498182,25,GET Home,200,OK,Usuarios Virtuais (20) 1-4,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,25,0,0
+1794352497934,289,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-20,text,true,,454,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,289,0,0
+1794352497934,297,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-17,text,true,,690,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,297,0,0
+1794352497934,302,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-16,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,302,0,0
+1794352497971,265,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-7,text,true,,1627,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,265,0,0
+1794352498223,20,GET Home,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,20,0,0
+1794352498236,20,GET Home,200,OK,Usuarios Virtuais (20) 1-16,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,20,0,0
+1794352497934,339,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2662,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,339,0,0
+1794352497934,370,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-8,text,true,,795,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,370,0,0
+1794352498168,145,GET Health Check,200,OK,Usuarios Virtuais (20) 1-1,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,145,0,0
+1794352498032,284,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-6,text,true,,1627,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,284,0,0
+1794352498182,143,GET Health Check,200,OK,Usuarios Virtuais (20) 1-12,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,143,0,0
+1794352497934,397,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-13,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,397,0,0
+1794352498332,22,GET Home,200,OK,Usuarios Virtuais (20) 1-13,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,22,0,0
+1794352498043,311,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-2,text,true,,453,241,20,20,https://catalogo-produtos-beta.vercel.app/api/items,311,0,0
+1794352498154,204,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-5,text,true,,453,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,204,0,0
+1794352498207,152,GET Health Check,200,OK,Usuarios Virtuais (20) 1-4,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,152,0,0
+1794352498358,23,GET Home,200,OK,Usuarios Virtuais (20) 1-5,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,23,0,0
+1794352498243,147,GET Health Check,200,OK,Usuarios Virtuais (20) 1-20,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,147,0,0
+1794352498178,233,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-18,text,true,,2662,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,233,0,0
+1794352498256,155,GET Health Check,200,OK,Usuarios Virtuais (20) 1-16,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,155,0,0
+1794352498148,263,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-3,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,263,0,0
+1794352498354,57,GET Home,200,OK,Usuarios Virtuais (20) 1-2,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,57,0,0
+1794352498160,251,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-19,text,true,,1791,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,251,0,0
+1794352498125,286,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-14,text,true,,2662,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,286,0,0
+1794352498236,207,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-7,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,207,0,0
+1794352498231,212,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-17,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,212,0,0
+1794352498177,266,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-15,text,true,,1846,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,266,0,0
+1794352498125,332,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-11,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,331,0,0
+1794352498153,313,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-9,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,313,0,0
+1794352498382,162,GET Health Check,200,OK,Usuarios Virtuais (20) 1-5,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,162,0,0
+1794352498354,190,GET Health Check,200,OK,Usuarios Virtuais (20) 1-13,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,190,0,0
+1794352498443,104,GET Home,200,OK,Usuarios Virtuais (20) 1-17,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,104,0,0
+1794352498411,136,GET Home,200,OK,Usuarios Virtuais (20) 1-3,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,136,0,0
+1794352498466,81,GET Home,200,OK,Usuarios Virtuais (20) 1-9,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,81,0,0
+1794352498457,90,GET Home,200,OK,Usuarios Virtuais (20) 1-11,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,90,0,0
+1794352498443,117,GET Home,200,OK,Usuarios Virtuais (20) 1-7,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,117,0,0
+1794352498314,257,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-1,text,true,,849,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,257,0,0
+1794352498317,265,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-6,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,265,0,0
+1794352498360,255,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-4,text,true,,2884,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,255,0,0
+1794352498273,342,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-10,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,342,0,0
+1794352498583,32,GET Home,200,OK,Usuarios Virtuais (20) 1-6,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,32,0,0
+1794352498391,224,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2884,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,224,0,0
+1794352498305,317,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-8,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,317,0,0
+1794352498325,333,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-12,text,true,,1957,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,333,0,0
+1794352498616,42,GET Home,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,42,0,0
+1794352498623,39,GET Home,200,OK,Usuarios Virtuais (20) 1-8,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,39,0,0
+1794352498411,268,GET Health Check,200,OK,Usuarios Virtuais (20) 1-2,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,268,0,0
+1794352498547,178,GET Health Check,200,OK,Usuarios Virtuais (20) 1-3,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,178,0,0
+1794352498560,165,GET Health Check,200,OK,Usuarios Virtuais (20) 1-7,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,165,0,0
+1794352498547,178,GET Health Check,200,OK,Usuarios Virtuais (20) 1-9,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,178,0,0
+1794352498547,190,GET Health Check,200,OK,Usuarios Virtuais (20) 1-11,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,190,0,0
+1794352498547,190,GET Health Check,200,OK,Usuarios Virtuais (20) 1-17,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,190,0,0
+1794352498544,193,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-5,text,true,,849,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,193,0,0
+1794352498411,326,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-19,text,true,,454,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,326,0,0
+1794352498443,311,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-15,text,true,,454,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,311,0,0
+1794352498616,145,GET Health Check,200,OK,Usuarios Virtuais (20) 1-6,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,145,0,0
+1794352498411,369,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-18,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,369,0,0
+1794352498411,385,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-14,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,385,0,0
+1794352498658,194,GET Health Check,200,OK,Usuarios Virtuais (20) 1-10,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,194,0,0
+1794352498781,71,GET Home,200,OK,Usuarios Virtuais (20) 1-18,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,71,0,0
+1794352498662,190,GET Health Check,200,OK,Usuarios Virtuais (20) 1-8,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,190,0,0
+1794352498797,56,GET Home,200,OK,Usuarios Virtuais (20) 1-14,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,56,0,0
+1794352498754,99,GET Home,200,OK,Usuarios Virtuais (20) 1-15,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,99,0,0
+1794352498411,442,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-16,text,true,,1957,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,442,0,0
+1794352498738,123,GET Home,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,123,0,0
+1794352498544,321,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-13,text,true,,2940,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,321,0,0
+1794352498616,341,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-4,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,341,0,0
+1794352498572,385,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-1,text,true,,453,241,20,20,https://catalogo-produtos-beta.vercel.app/api/items,385,0,0
+1794352498616,341,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-20,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,341,0,0
+1794352498737,220,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-17,text,true,,905,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,220,0,0
+1794352498737,220,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-5,text,true,,451,240,20,20,https://catalogo-produtos-beta.vercel.app/api/items,220,0,0
+1794352498658,307,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-12,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,307,0,0
+1794352498725,255,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-3,text,true,,3049,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,255,0,0
+1794352498680,312,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-2,text,true,,3104,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,312,0,0
+1794352498761,231,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-6,text,true,,2013,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,231,0,0
+1794352498737,320,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-11,text,true,,798,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,320,0,0
+1794352498725,332,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-7,text,true,,3104,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,332,0,0
+1794352498861,196,GET Health Check,200,OK,Usuarios Virtuais (20) 1-19,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,196,0,0
+1794352498853,204,GET Health Check,200,OK,Usuarios Virtuais (20) 1-14,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,204,0,0
+1794352498853,204,GET Health Check,200,OK,Usuarios Virtuais (20) 1-15,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,204,0,0
+1794352498853,205,GET Health Check,200,OK,Usuarios Virtuais (20) 1-18,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,205,0,0
+1794352498725,346,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-9,text,true,,2013,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,346,0,0
+1794352498966,119,GET Home,200,OK,Usuarios Virtuais (20) 1-12,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,119,0,0
+1794352498957,128,GET Home,200,OK,Usuarios Virtuais (20) 1-4,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,128,0,0
+1794352498958,127,GET Home,200,OK,Usuarios Virtuais (20) 1-1,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,127,0,0
+1794352498957,129,GET Home,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,129,0,0
+1794352498958,128,GET Home,200,OK,Usuarios Virtuais (20) 1-5,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,128,0,0
+1794352498853,324,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-16,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,324,0,0
+1794352498866,320,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-13,text,true,,454,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,320,0,0
+1794352498853,345,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2013,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,345,0,0
+1794352499186,18,GET Home,200,OK,Usuarios Virtuais (20) 1-13,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,18,0,0
+1794352498853,400,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-8,text,true,,2013,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,400,0,0
+1794352499177,76,GET Home,200,OK,Usuarios Virtuais (20) 1-16,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,76,0,0
+1794352499086,193,GET Health Check,200,OK,Usuarios Virtuais (20) 1-20,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,193,0,0
+1794352499085,194,GET Health Check,200,OK,Usuarios Virtuais (20) 1-12,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,194,0,0
+1794352499086,193,GET Health Check,200,OK,Usuarios Virtuais (20) 1-4,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,193,0,0
+1794352499086,193,GET Health Check,200,OK,Usuarios Virtuais (20) 1-5,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,193,0,0
+1794352499086,204,GET Health Check,200,OK,Usuarios Virtuais (20) 1-1,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,204,0,0
+1794352498957,403,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-17,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,403,0,0
+1794352499058,302,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-19,text,true,,905,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,302,0,0
+1794352499204,156,GET Health Check,200,OK,Usuarios Virtuais (20) 1-13,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,156,0,0
+1794352499071,296,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-9,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,296,0,0
+1794352498980,393,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-3,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,393,0,0
+1794352499058,315,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-7,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,315,0,0
+1794352498993,385,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-6,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,385,0,0
+1794352498993,423,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-2,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,423,0,0
+1794352499057,418,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-11,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,418,0,0
+1794352499058,417,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-15,text,true,,797,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,417,0,0
+1794352499254,222,GET Health Check,200,OK,Usuarios Virtuais (20) 1-16,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,222,0,0
+1794352499058,418,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-18,text,true,,2124,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,417,0,0
+1794352499367,108,GET Home,200,OK,Usuarios Virtuais (20) 1-9,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,108,0,0
+1794352499378,98,GET Home,200,OK,Usuarios Virtuais (20) 1-6,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,98,0,0
+1794352499360,116,GET Home,200,OK,Usuarios Virtuais (20) 1-17,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,116,0,0
+1794352499417,73,GET Home,200,OK,Usuarios Virtuais (20) 1-2,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,73,0,0
+1794352499373,118,GET Home,200,OK,Usuarios Virtuais (20) 1-3,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,118,0,0
+1794352499280,218,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-5,text,true,,2124,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,218,0,0
+1794352499199,299,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-10,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,299,0,0
+1794352499373,125,GET Home,200,OK,Usuarios Virtuais (20) 1-7,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,125,0,0
+1794352499290,208,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-1,text,true,,3270,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,208,0,0
+1794352499476,33,GET Home,200,OK,Usuarios Virtuais (20) 1-11,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,33,0,0
+1794352499498,74,GET Home,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,74,0,0
+1794352499058,514,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-14,text,true,,3270,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,514,0,0
+1794352499279,293,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-4,text,true,,797,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,293,0,0
+1794352499279,293,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-12,text,true,,963,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,293,0,0
+1794352499254,328,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-8,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,328,0,0
+1794352499279,320,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2394,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,320,0,0
+1794352499360,243,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-19,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,243,0,0
+1794352499582,27,GET Home,200,OK,Usuarios Virtuais (20) 1-8,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,27,0,0
+1794352499476,168,GET Health Check,200,OK,Usuarios Virtuais (20) 1-17,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,168,0,0
+1794352499476,168,GET Health Check,200,OK,Usuarios Virtuais (20) 1-9,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,168,0,0
+1794352499476,169,GET Health Check,200,OK,Usuarios Virtuais (20) 1-6,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,169,0,0
+1794352499603,42,GET Home,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,42,0,0
+1794352499491,154,GET Health Check,200,OK,Usuarios Virtuais (20) 1-2,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,154,0,0
+1794352499491,159,GET Health Check,200,OK,Usuarios Virtuais (20) 1-3,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,159,0,0
+1794352499498,152,GET Health Check,200,OK,Usuarios Virtuais (20) 1-7,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,152,0,0
+1794352499360,301,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-13,text,true,,3325,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,300,0,0
+1794352499509,153,GET Health Check,200,OK,Usuarios Virtuais (20) 1-11,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,153,0,0
+1794352499476,265,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-16,text,true,,3325,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,265,0,0
+1794352499476,267,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-15,text,true,,454,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,267,0,0
+1794352499572,171,GET Health Check,200,OK,Usuarios Virtuais (20) 1-10,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,171,0,0
+1794352499609,152,GET Health Check,200,OK,Usuarios Virtuais (20) 1-8,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,152,0,0
+1794352499744,26,GET Home,200,OK,Usuarios Virtuais (20) 1-15,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,26,0,0
+1794352499498,275,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-5,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,275,0,0
+1794352499773,25,GET Home,200,OK,Usuarios Virtuais (20) 1-5,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,25,0,0
+1794352499476,347,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-18,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,347,0,0
+1794352499498,351,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-1,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,350,0,0
+1794352499644,205,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-9,text,true,,963,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,204,0,0
+1794352499645,204,GET Health Check,200,OK,Usuarios Virtuais (20) 1-19,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,204,0,0
+1794352499645,216,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-6,text,true,,3380,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,216,0,0
+1794352499573,288,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-12,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,288,0,0
+1794352499823,44,GET Home,200,OK,Usuarios Virtuais (20) 1-18,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,44,0,0
+1794352499572,295,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-4,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,295,0,0
+1794352499849,28,GET Home,200,OK,Usuarios Virtuais (20) 1-1,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,28,0,0
+1794352499862,16,GET Home,200,OK,Usuarios Virtuais (20) 1-12,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,16,0,0
+1794352499650,242,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-7,text,true,,852,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,242,0,0
+1794352499867,30,GET Home,200,OK,Usuarios Virtuais (20) 1-4,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,30,0,0
+1794352499662,242,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-11,text,true,,2506,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,242,0,0
+1794352499661,243,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-13,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,243,0,0
+1794352499771,142,GET Health Check,200,OK,Usuarios Virtuais (20) 1-15,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,142,0,0
+1794352499599,324,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-20,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,324,0,0
+1794352499905,18,GET Home,200,OK,Usuarios Virtuais (20) 1-13,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,18,0,0
+1794352499572,351,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-14,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,351,0,0
+1794352499650,296,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-3,text,true,,905,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,296,0,0
+1794352499923,23,GET Home,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,23,0,0
+1794352499743,203,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2617,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,203,0,0
+1794352499923,23,GET Home,200,OK,Usuarios Virtuais (20) 1-14,text,true,,2882,163,20,20,https://catalogo-produtos-beta.vercel.app/,23,0,0
+1794352499799,158,GET Health Check,200,OK,Usuarios Virtuais (20) 1-5,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,158,0,0
+1794352499644,320,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-17,text,true,,2617,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,320,0,0
+1794352499645,332,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-2,text,true,,2180,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,332,0,0
+1794352499761,231,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-8,text,true,,2617,172,20,20,https://catalogo-produtos-beta.vercel.app/api/items,231,0,0
+1794352499867,158,GET Health Check,200,OK,Usuarios Virtuais (20) 1-18,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,158,0,0
+1794352499879,177,GET Health Check,200,OK,Usuarios Virtuais (20) 1-12,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,177,0,0
+1794352499898,158,GET Health Check,200,OK,Usuarios Virtuais (20) 1-4,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,158,0,0
+1794352499923,144,GET Health Check,200,OK,Usuarios Virtuais (20) 1-13,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,144,0,0
+1794352499946,150,GET Health Check,200,OK,Usuarios Virtuais (20) 1-14,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,150,0,0
+1794352499892,204,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-7,text,true,,454,242,20,20,https://catalogo-produtos-beta.vercel.app/api/items,204,0,0
+1794352499741,355,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-16,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,355,0,0
+1794352499878,226,GET Health Check,200,OK,Usuarios Virtuais (20) 1-1,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,226,0,0
+1794352499946,158,GET Health Check,200,OK,Usuarios Virtuais (20) 1-20,text,true,,435,173,20,20,https://catalogo-produtos-beta.vercel.app/api/health,158,0,0
+1794352499904,207,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-11,text,true,,455,243,20,20,https://catalogo-produtos-beta.vercel.app/api/items,207,0,0
+1794352499861,256,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-6,text,true,,453,241,20,20,https://catalogo-produtos-beta.vercel.app/api/items,256,0,0
+1794352500097,28,GET Home,200,OK,Usuarios Virtuais (20) 1-16,text,true,,2882,163,19,19,https://catalogo-produtos-beta.vercel.app/,28,0,0
+1794352499849,276,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-9,text,true,,454,242,19,19,https://catalogo-produtos-beta.vercel.app/api/items,276,0,0
+1794352500112,49,GET Home,200,OK,Usuarios Virtuais (20) 1-11,text,true,,2882,163,19,19,https://catalogo-produtos-beta.vercel.app/,49,0,0
+1794352499946,215,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-3,text,true,,454,242,19,19,https://catalogo-produtos-beta.vercel.app/api/items,215,0,0
+1794352500125,36,GET Home,200,OK,Usuarios Virtuais (20) 1-9,text,true,,2882,163,19,19,https://catalogo-produtos-beta.vercel.app/,36,0,0
+1794352500097,64,GET Home,200,OK,Usuarios Virtuais (20) 1-7,text,true,,2882,163,19,19,https://catalogo-produtos-beta.vercel.app/,64,0,0
+1794352499849,312,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2673,172,19,19,https://catalogo-produtos-beta.vercel.app/api/items,312,0,0
+1794352499957,205,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-5,text,true,,2180,172,19,19,https://catalogo-produtos-beta.vercel.app/api/items,205,0,0
+1794352499913,249,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-15,text,true,,1180,172,19,19,https://catalogo-produtos-beta.vercel.app/api/items,249,0,0
+1794352499977,190,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-2,text,true,,454,242,18,18,https://catalogo-produtos-beta.vercel.app/api/items,190,0,0
+1794352499965,204,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-17,text,true,,455,243,17,17,https://catalogo-produtos-beta.vercel.app/api/items,204,0,0
+1794352500169,22,GET Home,200,OK,Usuarios Virtuais (20) 1-17,text,true,,2882,163,17,17,https://catalogo-produtos-beta.vercel.app/,22,0,0
+1794352499992,201,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-8,text,true,,454,242,17,17,https://catalogo-produtos-beta.vercel.app/api/items,201,0,0
+1794352500194,35,GET Home,200,OK,Usuarios Virtuais (20) 1-8,text,true,,2882,163,17,17,https://catalogo-produtos-beta.vercel.app/,35,0,0
+1794352499946,324,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-10,text,true,,455,243,17,17,https://catalogo-produtos-beta.vercel.app/api/items,324,0,0
+1794352500057,213,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-12,text,true,,2180,172,17,17,https://catalogo-produtos-beta.vercel.app/api/items,213,0,0
+1794352500057,216,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-4,text,true,,2729,172,17,17,https://catalogo-produtos-beta.vercel.app/api/items,216,0,0
+1794352500271,16,GET Home,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2882,163,17,17,https://catalogo-produtos-beta.vercel.app/,16,0,0
+1794352500125,173,GET Health Check,200,OK,Usuarios Virtuais (20) 1-16,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,173,0,0
+1794352500161,146,GET Health Check,200,OK,Usuarios Virtuais (20) 1-7,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,146,0,0
+1794352500161,162,GET Health Check,200,OK,Usuarios Virtuais (20) 1-11,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,162,0,0
+1794352500161,162,GET Health Check,200,OK,Usuarios Virtuais (20) 1-9,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,162,0,0
+1794352500030,293,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-18,text,true,,1346,172,17,17,https://catalogo-produtos-beta.vercel.app/api/items,293,0,0
+1794352500104,252,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-1,text,true,,2729,172,17,17,https://catalogo-produtos-beta.vercel.app/api/items,252,0,0
+1794352500162,194,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-19,text,true,,455,243,17,17,https://catalogo-produtos-beta.vercel.app/api/items,194,0,0
+1794352500192,180,GET Health Check,200,OK,Usuarios Virtuais (20) 1-17,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,180,0,0
+1794352500162,211,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-15,text,true,,454,242,17,17,https://catalogo-produtos-beta.vercel.app/api/items,211,0,0
+1794352500067,363,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-13,text,true,,1403,172,17,17,https://catalogo-produtos-beta.vercel.app/api/items,363,0,0
+1794352500104,326,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2235,172,17,17,https://catalogo-produtos-beta.vercel.app/api/items,326,0,0
+1794352500229,201,GET Health Check,200,OK,Usuarios Virtuais (20) 1-8,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,201,0,0
+1794352500162,342,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-5,text,true,,453,241,17,17,https://catalogo-produtos-beta.vercel.app/api/items,342,0,0
+1794352500288,216,GET Health Check,200,OK,Usuarios Virtuais (20) 1-10,text,true,,435,173,17,17,https://catalogo-produtos-beta.vercel.app/api/health,216,0,0
+1794352500373,131,GET Home,200,OK,Usuarios Virtuais (20) 1-15,text,true,,2882,163,17,17,https://catalogo-produtos-beta.vercel.app/,131,0,0
+1794352500097,407,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-14,text,true,,1403,172,17,17,https://catalogo-produtos-beta.vercel.app/api/items,407,0,0
+1794352500357,147,GET Home,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2882,163,17,17,https://catalogo-produtos-beta.vercel.app/,147,0,0
+1794352500271,234,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-12,text,true,,455,243,17,17,https://catalogo-produtos-beta.vercel.app/api/items,234,0,0
+1794352500505,19,GET Home,200,OK,Usuarios Virtuais (20) 1-12,text,true,,2882,163,16,16,https://catalogo-produtos-beta.vercel.app/,19,0,0
+1794352500307,227,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-7,text,true,,1459,172,16,16,https://catalogo-produtos-beta.vercel.app/api/items,227,0,0
+1794352500273,284,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-4,text,true,,454,242,16,16,https://catalogo-produtos-beta.vercel.app/api/items,284,0,0
+1794352500298,274,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-16,text,true,,2838,172,15,15,https://catalogo-produtos-beta.vercel.app/api/items,274,0,0
+1794352500323,311,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-9,text,true,,2838,172,15,15,https://catalogo-produtos-beta.vercel.app/api/items,311,0,0
+1794352500505,160,GET Health Check,200,OK,Usuarios Virtuais (20) 1-15,text,true,,435,173,15,15,https://catalogo-produtos-beta.vercel.app/api/health,160,0,0
+1794352500505,160,GET Health Check,200,OK,Usuarios Virtuais (20) 1-19,text,true,,435,173,15,15,https://catalogo-produtos-beta.vercel.app/api/health,160,0,0
+1794352500431,236,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-8,text,true,,579,172,15,15,https://catalogo-produtos-beta.vercel.app/api/items,236,0,0
+1794352500356,311,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-1,text,true,,453,241,15,15,https://catalogo-produtos-beta.vercel.app/api/items,311,0,0
+1794352500430,245,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-13,text,true,,455,243,14,14,https://catalogo-produtos-beta.vercel.app/api/items,245,0,0
+1794352500525,150,GET Health Check,200,OK,Usuarios Virtuais (20) 1-12,text,true,,435,173,14,14,https://catalogo-produtos-beta.vercel.app/api/health,150,0,0
+1794352500676,43,GET Home,200,OK,Usuarios Virtuais (20) 1-13,text,true,,2882,163,14,14,https://catalogo-produtos-beta.vercel.app/,43,0,0
+1794352500323,396,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-11,text,true,,1073,172,14,14,https://catalogo-produtos-beta.vercel.app/api/items,396,0,0
+1794352500323,396,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-18,text,true,,455,243,14,14,https://catalogo-produtos-beta.vercel.app/api/items,396,0,0
+1794352500430,300,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-20,text,true,,454,243,14,14,https://catalogo-produtos-beta.vercel.app/api/items,300,0,0
+1794352500373,360,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-17,text,true,,3492,172,14,14,https://catalogo-produtos-beta.vercel.app/api/items,360,0,0
+1794352500719,18,GET Home,200,OK,Usuarios Virtuais (20) 1-18,text,true,,2882,163,14,14,https://catalogo-produtos-beta.vercel.app/,18,0,0
+1794352500534,233,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-7,text,true,,454,242,14,14,https://catalogo-produtos-beta.vercel.app/api/items,233,0,0
+1794352500730,37,GET Home,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2882,163,14,14,https://catalogo-produtos-beta.vercel.app/,37,0,0
+1794352500572,205,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-16,text,true,,455,243,13,13,https://catalogo-produtos-beta.vercel.app/api/items,205,0,0
+1794352500505,319,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2344,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,319,0,0
+1794352500777,47,GET Home,200,OK,Usuarios Virtuais (20) 1-16,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,47,0,0
+1794352500505,332,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-14,text,true,,455,243,13,13,https://catalogo-produtos-beta.vercel.app/api/items,332,0,0
+1794352500837,45,GET Home,200,OK,Usuarios Virtuais (20) 1-14,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,45,0,0
+1794352500719,164,GET Health Check,200,OK,Usuarios Virtuais (20) 1-13,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,164,0,0
+1794352500738,161,GET Health Check,200,OK,Usuarios Virtuais (20) 1-18,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,161,0,0
+1794352500666,247,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2400,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,247,0,0
+1794352500719,195,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-11,text,true,,455,243,13,13,https://catalogo-produtos-beta.vercel.app/api/items,195,0,0
+1794352500666,260,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-15,text,true,,1571,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,260,0,0
+1794352500676,250,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-12,text,true,,799,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,250,0,0
+1794352500768,159,GET Health Check,200,OK,Usuarios Virtuais (20) 1-20,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,159,0,0
+1794352500634,293,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-9,text,true,,454,242,13,13,https://catalogo-produtos-beta.vercel.app/api/items,293,0,0
+1794352500667,337,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-8,text,true,,454,242,13,13,https://catalogo-produtos-beta.vercel.app/api/items,337,0,0
+1794352500824,180,GET Health Check,200,OK,Usuarios Virtuais (20) 1-16,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,180,0,0
+1794352500734,270,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-17,text,true,,455,243,13,13,https://catalogo-produtos-beta.vercel.app/api/items,270,0,0
+1794352500824,211,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-10,text,true,,455,243,13,13,https://catalogo-produtos-beta.vercel.app/api/items,211,0,0
+1794352501035,68,GET Home,200,OK,Usuarios Virtuais (20) 1-10,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,68,0,0
+1794352500914,189,GET Home,200,OK,Usuarios Virtuais (20) 1-11,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,189,0,0
+1794352500927,176,GET Home,200,OK,Usuarios Virtuais (20) 1-9,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,176,0,0
+1794352501005,98,GET Home,200,OK,Usuarios Virtuais (20) 1-8,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,98,0,0
+1794352501005,98,GET Home,200,OK,Usuarios Virtuais (20) 1-17,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,98,0,0
+1794352500883,304,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-13,text,true,,1683,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,304,0,0
+1794352501005,300,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-16,text,true,,1683,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,299,0,0
+1794352501103,202,GET Health Check,200,OK,Usuarios Virtuais (20) 1-17,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,201,0,0
+1794352500926,421,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-12,text,true,,454,242,13,13,https://catalogo-produtos-beta.vercel.app/api/items,421,0,0
+1794352501103,246,GET Health Check,200,OK,Usuarios Virtuais (20) 1-11,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,246,0,0
+1794352501103,250,GET Health Check,200,OK,Usuarios Virtuais (20) 1-9,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,250,0,0
+1794352501103,277,GET Health Check,200,OK,Usuarios Virtuais (20) 1-8,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,277,0,0
+1794352501348,33,GET Home,200,OK,Usuarios Virtuais (20) 1-12,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,33,0,0
+1794352500883,498,GET Health Check,200,OK,Usuarios Virtuais (20) 1-14,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,498,0,0
+1794352500926,459,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-15,text,true,,455,243,13,13,https://catalogo-produtos-beta.vercel.app/api/items,459,0,0
+1794352500927,465,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-20,text,true,,1794,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,465,0,0
+1794352501386,22,GET Home,200,OK,Usuarios Virtuais (20) 1-15,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,22,0,0
+1794352500914,497,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-19,text,true,,455,243,13,13,https://catalogo-produtos-beta.vercel.app/api/items,497,0,0
+1794352501412,18,GET Home,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,18,0,0
+1794352500899,534,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-18,text,true,,3603,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,534,0,0
+1794352501103,380,GET Health Check,200,OK,Usuarios Virtuais (20) 1-10,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,380,0,0
+1794352501381,149,GET Health Check,200,OK,Usuarios Virtuais (20) 1-12,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,149,0,0
+1794352501305,232,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-16,text,true,,455,243,13,13,https://catalogo-produtos-beta.vercel.app/api/items,232,0,0
+1794352501537,19,GET Home,200,OK,Usuarios Virtuais (20) 1-16,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,19,0,0
+1794352501408,148,GET Health Check,200,OK,Usuarios Virtuais (20) 1-15,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,148,0,0
+1794352501187,391,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-13,text,true,,455,243,13,13,https://catalogo-produtos-beta.vercel.app/api/items,391,0,0
+1794352501430,150,GET Health Check,200,OK,Usuarios Virtuais (20) 1-19,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,150,0,0
+1794352501579,24,GET Home,200,OK,Usuarios Virtuais (20) 1-13,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,24,0,0
+1794352501349,268,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-11,text,true,,1962,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,268,0,0
+1794352501381,282,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-14,text,true,,1962,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,282,0,0
+1794352501305,382,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-17,text,true,,1962,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,382,0,0
+1794352501354,338,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-9,text,true,,3603,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,338,0,0
+1794352501433,262,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-18,text,true,,455,243,13,13,https://catalogo-produtos-beta.vercel.app/api/items,262,0,0
+1794352501483,216,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-10,text,true,,1962,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,216,0,0
+1794352501556,154,GET Health Check,200,OK,Usuarios Virtuais (20) 1-16,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,154,0,0
+1794352501696,17,GET Home,200,OK,Usuarios Virtuais (20) 1-18,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,17,0,0
+1794352501381,362,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-8,text,true,,3659,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,362,0,0
+1794352501604,142,GET Health Check,200,OK,Usuarios Virtuais (20) 1-13,text,true,,435,173,13,13,https://catalogo-produtos-beta.vercel.app/api/health,142,0,0
+1794352501556,204,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-15,text,true,,3659,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,204,0,0
+1794352501393,414,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-20,text,true,,455,243,13,13,https://catalogo-produtos-beta.vercel.app/api/items,414,0,0
+1794352501807,27,GET Home,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2882,163,13,13,https://catalogo-produtos-beta.vercel.app/,27,0,0
+1794352501530,332,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-12,text,true,,2018,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,332,0,0
+1794352501580,306,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-19,text,true,,3659,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,306,0,0
+1794352501710,210,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-16,text,true,,2018,172,13,13,https://catalogo-produtos-beta.vercel.app/api/items,210,0,0
+1794352501664,258,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-14,text,true,,455,243,13,13,https://catalogo-produtos-beta.vercel.app/api/items,258,0,0
+1794352501617,305,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-11,text,true,,454,242,13,13,https://catalogo-produtos-beta.vercel.app/api/items,305,0,0
+1794352501688,244,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-17,text,true,,454,242,12,12,https://catalogo-produtos-beta.vercel.app/api/items,244,0,0
+1794352501692,331,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-9,text,true,,454,242,12,12,https://catalogo-produtos-beta.vercel.app/api/items,331,0,0
+1794352501835,188,GET Health Check,200,OK,Usuarios Virtuais (20) 1-20,text,true,,435,173,12,12,https://catalogo-produtos-beta.vercel.app/api/health,188,0,0
+1794352501699,324,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-10,text,true,,455,243,12,12,https://catalogo-produtos-beta.vercel.app/api/items,324,0,0
+1794352501922,101,GET Home,200,OK,Usuarios Virtuais (20) 1-14,text,true,,2882,163,12,12,https://catalogo-produtos-beta.vercel.app/,101,0,0
+1794352501932,92,GET Home,200,OK,Usuarios Virtuais (20) 1-17,text,true,,2882,163,12,12,https://catalogo-produtos-beta.vercel.app/,92,0,0
+1794352501713,330,GET Health Check,200,OK,Usuarios Virtuais (20) 1-18,text,true,,435,173,10,10,https://catalogo-produtos-beta.vercel.app/api/health,330,0,0
+1794352501743,307,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-8,text,true,,454,242,10,10,https://catalogo-produtos-beta.vercel.app/api/items,307,0,0
+1794352501760,361,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-15,text,true,,455,243,9,9,https://catalogo-produtos-beta.vercel.app/api/items,361,0,0
+1794352501862,260,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-12,text,true,,455,243,9,9,https://catalogo-produtos-beta.vercel.app/api/items,260,0,0
+1794352501746,382,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-13,text,true,,3881,172,8,8,https://catalogo-produtos-beta.vercel.app/api/items,382,0,0
+1794352502122,22,GET Home,200,OK,Usuarios Virtuais (20) 1-15,text,true,,2882,163,8,8,https://catalogo-produtos-beta.vercel.app/,22,0,0
+1794352501921,235,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-16,text,true,,455,243,8,8,https://catalogo-produtos-beta.vercel.app/api/items,235,0,0
+1794352502156,19,GET Home,200,OK,Usuarios Virtuais (20) 1-16,text,true,,2882,163,8,8,https://catalogo-produtos-beta.vercel.app/,19,0,0
+1794352501887,358,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-19,text,true,,454,242,8,8,https://catalogo-produtos-beta.vercel.app/api/items,358,0,0
+1794352502024,221,GET Health Check,200,OK,Usuarios Virtuais (20) 1-17,text,true,,435,173,8,8,https://catalogo-produtos-beta.vercel.app/api/health,221,0,0
+1794352502024,221,GET Health Check,200,OK,Usuarios Virtuais (20) 1-14,text,true,,435,173,8,8,https://catalogo-produtos-beta.vercel.app/api/health,221,0,0
+1794352502246,28,GET Home,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2882,163,8,8,https://catalogo-produtos-beta.vercel.app/,28,0,0
+1794352502144,163,GET Health Check,200,OK,Usuarios Virtuais (20) 1-15,text,true,,435,173,8,8,https://catalogo-produtos-beta.vercel.app/api/health,163,0,0
+1794352502044,263,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-18,text,true,,3992,172,8,8,https://catalogo-produtos-beta.vercel.app/api/items,263,0,0
+1794352502024,327,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2567,172,8,8,https://catalogo-produtos-beta.vercel.app/api/items,327,0,0
+1794352502176,255,GET Health Check,200,OK,Usuarios Virtuais (20) 1-16,text,true,,435,173,8,8,https://catalogo-produtos-beta.vercel.app/api/health,255,0,0
+1794352502128,303,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-13,text,true,,455,243,8,8,https://catalogo-produtos-beta.vercel.app/api/items,303,0,0
+1794352502275,186,GET Health Check,200,OK,Usuarios Virtuais (20) 1-19,text,true,,435,173,7,7,https://catalogo-produtos-beta.vercel.app/api/health,186,0,0
+1794352502246,222,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-17,text,true,,4048,172,7,7,https://catalogo-produtos-beta.vercel.app/api/items,222,0,0
+1794352502246,288,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-14,text,true,,2567,172,7,7,https://catalogo-produtos-beta.vercel.app/api/items,288,0,0
+1794352502351,201,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-20,text,true,,455,243,7,7,https://catalogo-produtos-beta.vercel.app/api/items,201,0,0
+1794352502308,253,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-18,text,true,,455,243,7,7,https://catalogo-produtos-beta.vercel.app/api/items,253,0,0
+1794352502308,268,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-15,text,true,,4104,172,7,7,https://catalogo-produtos-beta.vercel.app/api/items,268,0,0
+1794352502552,32,GET Home,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2882,163,7,7,https://catalogo-produtos-beta.vercel.app/,32,0,0
+1794352502432,227,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-16,text,true,,4104,172,7,7,https://catalogo-produtos-beta.vercel.app/api/items,227,0,0
+1794352502562,97,GET Home,200,OK,Usuarios Virtuais (20) 1-18,text,true,,2882,163,7,7,https://catalogo-produtos-beta.vercel.app/,97,0,0
+1794352502468,219,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-17,text,true,,455,243,7,7,https://catalogo-produtos-beta.vercel.app/api/items,219,0,0
+1794352502688,57,GET Home,200,OK,Usuarios Virtuais (20) 1-17,text,true,,2882,163,7,7,https://catalogo-produtos-beta.vercel.app/,57,0,0
+1794352502585,160,GET Health Check,200,OK,Usuarios Virtuais (20) 1-20,text,true,,435,173,7,7,https://catalogo-produtos-beta.vercel.app/api/health,160,0,0
+1794352502535,215,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-14,text,true,,455,243,7,7,https://catalogo-produtos-beta.vercel.app/api/items,215,0,0
+1794352502659,186,GET Health Check,200,OK,Usuarios Virtuais (20) 1-18,text,true,,435,173,7,7,https://catalogo-produtos-beta.vercel.app/api/health,186,0,0
+1794352502462,383,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-19,text,true,,4216,172,7,7,https://catalogo-produtos-beta.vercel.app/api/items,383,0,0
+1794352502751,94,GET Home,200,OK,Usuarios Virtuais (20) 1-14,text,true,,2882,163,7,7,https://catalogo-produtos-beta.vercel.app/,94,0,0
+1794352502577,364,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-15,text,true,,455,243,7,7,https://catalogo-produtos-beta.vercel.app/api/items,364,0,0
+1794352502745,196,GET Health Check,200,OK,Usuarios Virtuais (20) 1-17,text,true,,435,173,7,7,https://catalogo-produtos-beta.vercel.app/api/health,196,0,0
+1794352502659,336,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-16,text,true,,454,242,6,6,https://catalogo-produtos-beta.vercel.app/api/items,336,0,0
+1794352502745,320,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-20,text,true,,4327,172,5,5,https://catalogo-produtos-beta.vercel.app/api/items,320,0,0
+1794352502845,220,GET Health Check,200,OK,Usuarios Virtuais (20) 1-14,text,true,,435,173,5,5,https://catalogo-produtos-beta.vercel.app/api/health,220,0,0
+1794352502941,243,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-17,text,true,,4327,172,5,5,https://catalogo-produtos-beta.vercel.app/api/items,243,0,0
+1794352502845,339,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-18,text,true,,4327,172,5,5,https://catalogo-produtos-beta.vercel.app/api/items,339,0,0
+1794352502845,436,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-19,text,true,,455,243,5,5,https://catalogo-produtos-beta.vercel.app/api/items,436,0,0
+1794352503282,62,GET Home,200,OK,Usuarios Virtuais (20) 1-19,text,true,,2882,163,5,5,https://catalogo-produtos-beta.vercel.app/,62,0,0
+1794352503066,316,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-14,text,true,,4383,172,5,5,https://catalogo-produtos-beta.vercel.app/api/items,316,0,0
+1794352503066,377,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-20,text,true,,455,243,5,5,https://catalogo-produtos-beta.vercel.app/api/items,377,0,0
+1794352503444,32,GET Home,200,OK,Usuarios Virtuais (20) 1-20,text,true,,2882,163,5,5,https://catalogo-produtos-beta.vercel.app/,32,0,0
+1794352503344,159,GET Health Check,200,OK,Usuarios Virtuais (20) 1-19,text,true,,435,173,5,5,https://catalogo-produtos-beta.vercel.app/api/health,159,0,0
+1794352503185,318,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-18,text,true,,455,243,5,5,https://catalogo-produtos-beta.vercel.app/api/items,318,0,0
+1794352503504,38,GET Home,200,OK,Usuarios Virtuais (20) 1-18,text,true,,2882,163,5,5,https://catalogo-produtos-beta.vercel.app/,38,0,0
+1794352503185,362,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-17,text,true,,455,243,5,5,https://catalogo-produtos-beta.vercel.app/api/items,362,0,0
+1794352503476,166,GET Health Check,200,OK,Usuarios Virtuais (20) 1-20,text,true,,435,173,4,4,https://catalogo-produtos-beta.vercel.app/api/health,166,0,0
+1794352503383,332,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-14,text,true,,455,243,4,4,https://catalogo-produtos-beta.vercel.app/api/items,332,0,0
+1794352503543,192,GET Health Check,200,OK,Usuarios Virtuais (20) 1-18,text,true,,435,173,3,3,https://catalogo-produtos-beta.vercel.app/api/health,192,0,0
+1794352503504,232,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-19,text,true,,4496,172,3,3,https://catalogo-produtos-beta.vercel.app/api/items,232,0,0
+1794352503642,648,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-20,text,true,,4496,172,3,3,https://catalogo-produtos-beta.vercel.app/api/items,647,0,0
+1794352503736,566,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-19,text,true,,455,243,3,3,https://catalogo-produtos-beta.vercel.app/api/items,566,0,0
+1794352503736,566,GET Listar Itens,200,OK,Usuarios Virtuais (20) 1-18,text,true,,4496,172,3,3,https://catalogo-produtos-beta.vercel.app/api/items,566,0,0
+1794352504290,341,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-20,text,true,,455,243,2,2,https://catalogo-produtos-beta.vercel.app/api/items,341,0,0
+1794352504302,380,POST Criar Item,201,Created,Usuarios Virtuais (20) 1-18,text,true,,455,243,1,1,https://catalogo-produtos-beta.vercel.app/api/items,380,0,0
